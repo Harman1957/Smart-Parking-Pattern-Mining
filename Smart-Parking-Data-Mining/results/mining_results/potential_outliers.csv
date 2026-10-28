@@ -1,0 +1,16 @@
+Record_ID,Date,Entry_Time,Exit_Time,Vehicle_Type,Vehicle_ID,Slot_ID,Parking_Duration_Min,Parking_Fee,Day,Day_Type,Hour,Duration_Category,Outlier_Flag,Outlier_Status
+57,2026-09-07,1900-01-01 17:42:00,20:53,Bus,V159,S14,191,210.1,Monday,Working Day,17,Long,-1,Potential outlier
+103,2026-09-28,1900-01-01 13:31:00,17:16,Bike,V040,S15,225,78.75,Monday,Working Day,13,Long,-1,Potential outlier
+109,2026-09-23,1900-01-01 18:35:00,22:43,Car,V126,S14,248,186.0,Wednesday,Working Day,18,Long,-1,Potential outlier
+122,2026-09-25,1900-01-01 15:28:00,18:26,Bus,V151,S10,178,195.8,Friday,Working Day,15,Medium,-1,Potential outlier
+123,2026-09-14,1900-01-01 11:39:00,15:43,Car,V161,S07,244,183.0,Monday,Working Day,11,Long,-1,Potential outlier
+171,2026-09-26,1900-01-01 09:04:00,11:59,Bus,V143,S13,175,192.5,Saturday,Weekend,9,Medium,-1,Potential outlier
+175,2026-09-30,1900-01-01 16:41:00,20:10,Bus,V167,S10,209,229.9,Wednesday,Working Day,16,Long,-1,Potential outlier
+264,2026-09-04,1900-01-01 18:27:00,21:10,Bus,V099,S15,163,179.3,Friday,Working Day,18,Medium,-1,Potential outlier
+289,2026-09-02,1900-01-01 18:01:00,21:52,Bike,V167,S09,231,80.85,Wednesday,Working Day,18,Long,-1,Potential outlier
+298,2026-09-01,1900-01-01 08:25:00,12:53,Bike,V056,S08,268,93.8,Tuesday,Working Day,8,Long,-1,Potential outlier
+325,2026-09-22,1900-01-01 17:00:00,21:23,Car,V123,S16,263,197.25,Tuesday,Working Day,17,Long,-1,Potential outlier
+354,2026-09-14,1900-01-01 16:59:00,20:37,Bus,V062,S01,218,239.8,Monday,Working Day,16,Long,-1,Potential outlier
+358,2026-09-25,1900-01-01 17:20:00,21:16,Car,V170,S05,236,177.0,Friday,Working Day,17,Long,-1,Potential outlier
+368,2026-09-24,1900-01-01 20:30:00,00:24,Van,V053,S20,234,187.2,Thursday,Working Day,20,Long,-1,Potential outlier
+464,2026-09-15,1900-01-01 18:05:00,21:28,Bus,V032,S05,203,223.3,Tuesday,Working Day,18,Long,-1,Potential outlier
